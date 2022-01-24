@@ -1,0 +1,6 @@
+@ Gray 173 173 185
+@ Red 190 0 0
+@ Green 0 190 0
+@ Admin 137 29 219
+> 10 Admin
+> 20 Green

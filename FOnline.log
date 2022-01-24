@@ -1,0 +1,51 @@
+Starting FOnline (version 0438-E2)...
+Engine initialization...
+Sprite manager initialization...
+Sprite manager initialization complete.
+Sound manager initialization...
+Sound manager initialization complete.
+Loaded<328> critter types.
+Load scripts...
+Bind reserved functions...
+Bind reserved functions complete.
+Script callback: -- Init Scenery Ambient sound completed : scenery_sound_manager : void SceneryAmbInit() : 11238, 1 : FOClient::ReloadScripts : Game.
+Load scripts complete.
+Interface initialization.
+Load data.
+Load sprites.
+File<clawON.png> not found.
+File<dogON.png> not found.
+Interface initialization complete.
+Item manager initialization...
+Item manager initialization complete.
+Hex field initialization...
+Hex field initialization complete.
+Engine initialization complete.
+Network init...
+Connecting to server<localhost:4000>.
+Connecting successful.
+Network init successful.
+Auntification success.
+Change map...
+Get hash of map, pid<135>...complete.
+Load map...Load map success.
+Local map loaded.
+Chosen parameters...complete.
+Quests...Complete.
+Disconnect.
+Traffic: send<1776>, receive<9211>, whole<10987>, receive real<36808>.
+Disconnect success.
+Engine finish...
+Disconnect.
+Traffic: send<1776>, receive<9211>, whole<10987>, receive real<36808>.
+Disconnect success.
+Resource manager finish...
+Resource manager finish complete.
+Hex field finish...
+Hex field finish complete.
+Sprite manager finish...
+Sprite manager finish complete.
+Sound manager finish.
+Sound manager finish complete.
+Engine finish complete.
+FOnline finished.
