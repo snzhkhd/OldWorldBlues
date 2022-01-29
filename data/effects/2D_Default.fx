@@ -28,8 +28,7 @@ float4 PSSimple(AppToVsToPs_2DEgg input) : COLOR
 	output.a = texColor.a * input.Diffuse.a;
 
 	// Egg transparent
-	if (input.TexEggCoord.x != 0.0f) 
-		output.a *= tex2D(EggMap, input.TexEggCoord).a;
+	if(input.TexEggCoord.x != 0.0f) output.a *= tex2D(EggMap, input.TexEggCoord).a;
 
 	return output;
 }
