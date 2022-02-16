@@ -202,23 +202,23 @@
 505    art\skilldex\LEGRIGHT.FRM  # Crippled Right Leg
 506    art\skilldex\LEGLEFT.FRM   # Crippled Left Leg
 
-550    art\skilldex\FASTMETA.FRM  # Fast Metabolism
-551    art\skilldex\BRUISER.FRM   # Bruiser
-552    art\skilldex\SMLFRAME.FRM  # Small Frame
-553    art\skilldex\ONEHAND.FRM   # One Hander
-554    art\skilldex\FINESSE.FRM   # Finesse
-555    art\skilldex\KAMIKAZE.FRM  # Kamikaze
-556    art\skilldex\HEAVYHND.FRM  # Heavy Handed
-557    art\skilldex\FASTSHOT.FRM  # Fast Shot
-558    art\skilldex\BLDMESS.FRM   # Bloody Mess
-559    art\skilldex\JINXED.FRM    # Jinxed
-560    art\skilldex\GOODNATR.FRM  # Good Natured
-561    art\skilldex\ADDICT.FRM    # Drug Addict
-562    art\skilldex\DRUGREST.FRM  # Drug Resistant
-563    art\skilldex\EMPATHY.FRM   # Sexappeal
-564    art\skilldex\SKILLED.FRM   # Skilled
-565    art\skilldex\NIGHTPER.FRM  # Night Person
-566    art\skilldex\GIFTED.FRM    # Gifted
+550    art\skilldex\BRUISER.FRM   # Bruiser
+551    art\skilldex\SMLFRAME.FRM  # Small Frame
+552    art\skilldex\ONEHAND.FRM   # One Hander
+553    art\skilldex\FINESSE.FRM   # Finesse
+554    art\skilldex\KAMIKAZE.FRM  # Kamikaze
+555    art\skilldex\HEAVYHND.FRM  # Heavy Handed
+556    art\skilldex\FASTSHOT.FRM  # Fast Shot
+557    art\skilldex\BLDMESS.FRM   # Bloody Mess
+558    art\skilldex\JINXED.FRM    # Jinxed
+559    art\skilldex\GOODNATR.FRM  # Good Natured
+560    art\skilldex\SKILLED.FRM   # Skilled
+561    art\skilldex\GIFTED.FRM    # Gifted
+
+562    art\skilldex\ADORABLE.png    # ADORABLE
+563    art\skilldex\HOT_BLOODED.png  # HOT_BLOODED
+564    art\skilldex\SMOKER.png   # SMOKER
+565    art\skilldex\Trigger_Discipline.png    # TRIGGER_DISCIPLINE
 
 #
 # Character tabs
